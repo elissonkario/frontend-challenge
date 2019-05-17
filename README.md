@@ -14,7 +14,7 @@ pessoal. Envie o link para contato@devninjas.com.br ou faça um pull-request;
 2. Desenvolver o projeto utilizando:  
 
 - HTML e CSS (ou algum pré-processador);
-- Algum framework CSS (Atualmente estamos trabalhando com Bootstrap., mas use o que achar melhor);
+- Algum framework CSS (Atualmente estamos trabalhando com Bootstrap, mas use o que achar melhor);
 - Layout responsivo;
 
 ## O Desafio
@@ -24,3 +24,8 @@ Este é o layout que deverá ser desenvolvido:
 
 E aqui os ícones e imagens do layout:
 [Download do arquivo](mockup)
+
+
+## Dúvidas
+
+Envie suas dúvidas diretamente para contato@devninjas.com.br ou abrindo uma issue.
